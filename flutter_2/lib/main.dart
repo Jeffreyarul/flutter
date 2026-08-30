@@ -50,7 +50,7 @@ class StudentDashboard extends StatelessWidget {
                   SizedBox(height: 12),
                   StudentCard(
                     title: 'Courses',
-                    subtitle: 'Flutter â€¢ Cloud â€¢ Programming',
+                    subtitle: 'Flutter • Cloud • Programming',
                     icon: Icons.book,
                   ),
                 ],
